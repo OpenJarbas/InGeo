@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+matplotlib
+scipy
+randomcolor
+json_database
